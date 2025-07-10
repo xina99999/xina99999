@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Duy Trong Nhan
 
-<!--
-**xina99999/xina99999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year Computer Network & Communication student at University of Information Technology - VNUHCM.  
+🛠️ I'm passionate about **DevOps, automation, and cloud infrastructure**.
 
-Here are some ideas to get you started:
+## 🚀 My DevOps Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐳 Docker | 📦 Kubernetes | 🔧 GitLab CI/CD | ☁️ AWS (basic)
+- 🧱 Infrastructure as Code: Terraform
+- 📊 Monitoring: Prometheus, Grafana, ArgoCD
+- 💻 Scripting & Languages: JavaScript, Java, C++
+
+## 📂 Featured Projects
+
+### 🔹 Monitoring with Grafana & Prometheus
+> Setup observability for a Node.js app + MongoDB Cluster  
+Tools: Docker, Prometheus, Grafana, MongoDB Exporter  
+[🔗 View on GitHub](https://github.com/xina99999/monitoring-grafana-prometheus)
+
+### 🔹 Deploy Microservices to AWS using Terraform
+> CI/CD with GitLab → Docker → Kubernetes → AWS (via Terraform)  
+Tools: GitLab CI, Terraform CLI, DockerHub, K8s  
+[🔗 View Repo](https://github.com/xina99999/aws-eco-web-terraform)
+
+## 📫 Connect with me
+- Email: nhannguyenduytrong@gmail.com  
+- LinkedIn: [linkedin.com/in/xina99999](https://linkedin.com/in/xina99999)  
+- Location: Dong Nai, Vietnam
+
+---
+
+> 🌱 I’m actively looking for **DevOps or Cloud Engineering roles** in an international company.  
+Feel free to reach out!
