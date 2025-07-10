@@ -15,7 +15,7 @@
 ### 🔹 Monitoring with Grafana & Prometheus
 > Setup observability for a Node.js app + MongoDB Cluster  
 Tools: Docker, Prometheus, Grafana, MongoDB Exporter  
-[🔗 View on GitHub](https://github.com/xina99999/monitoring-grafana-prometheus)
+[🔗 View on GitHub](https://github.com/xina99999/monitor-nextjs-mongodb-grafa-prometheus)
 
 ### 🔹 Deploy Microservices to AWS using Terraform
 > CI/CD with GitLab → Docker → Kubernetes → AWS (via Terraform)  
