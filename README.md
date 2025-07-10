@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Duy Trong Nhan
 
-🎓 Bachelor of Computer Network and Communication (Graduated 2025)  at University of Information Technology - VNUHCM.  
+🎓 Bachelor of Computer Network and Communication  at University of Information Technology - VNUHCM.  
 🛠️ I'm passionate about **DevOps, automation, and cloud infrastructure**.
 
 ## 🚀 My DevOps Skills
